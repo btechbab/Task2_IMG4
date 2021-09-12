@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* List Items */
+nav{
+    padding: 20px;
+}
+.left-items a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.left-items {
+    text-decoration: none;
+    display: inline;
+    margin-left: 919px;
+}
+ul h2 {
+    display: inline;
+    margin-left: -24px;
+}
+
+/* Next part */
+
+.chil1 {
+    padding: 32px;
+}
+img.img111 {
+    height: 349px;
+    width: 100%;
+}
+
+
+
+/* Middle  */
+
+.middle {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    padding-top: 76px;
+    padding-bottom: 76px;
+}
+.middle p {
+    width: 577px;
+    padding: 25px;
+}
+.middle img {
+    width: 577px;
+    padding-bottom: 10px;
+}
+img.img1 {
+    width: 548px;
+}
+img.img2 {
+    width: 548px;
+}
+
+.middle button {
+    margin: 34px;
+    margin-left: -14px;
+    font-size: 19px;
+    padding: 5px;
+    border-radius: 50px;
+    width: 172px;
+    font-family: -webkit-pictograph;
+}
+
+/* Footer */
+.footer{
+    display: flex;
+    padding: 35px;    background-color: #00000042;
+
+}
+
+.f1 a{
+    display: block;
+}
+.f2 a{
+    display: block;
+}
+
+.i1{
+    margin-left: 5px;
+}
+.i2{
+    margin-left: 5px;
+}
+.i3{
+    margin-left: 5px;
+}
+.i4{
+    margin-left: 5px;
+}
+.i5{
+    margin-left: 5px;
+}
+
+
